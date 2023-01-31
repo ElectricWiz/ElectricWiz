@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElectricWiz, I'm a theoretical physicist!
-- 👀 I’m interested in Data Science, Simulations of the electronic molecular structure
-- 🌱 I’m currently learning MongoDB
+- 👀 I’m interested in the Web, Software , ML and Simulations of the electronic molecular structure
+- 🌱 I’m currently learning React, Django
 - 💞️ I’m looking to collaborate on Everything that needs Python or Julia!
 - 📫 How to reach me thecountoftouscany@ciencias.unam.mx
 
